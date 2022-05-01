@@ -1,0 +1,10 @@
+{
+  "id": "id",
+  "brand": "COM",
+  "profile": {
+    "email": "email@pm.bet",
+    "lastName": "lastName",
+    "firstName": "firstName",
+    "defaultCurrency": "UAH"
+  }
+}

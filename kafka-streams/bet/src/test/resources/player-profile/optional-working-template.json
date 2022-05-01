@@ -1,0 +1,17 @@
+{
+  "profile": {
+    "email": "email@pm.bet",
+    "phone": "phone",
+    "defaultCurrency": "UAH",
+    "registrationDate": "date",
+    "selectedLanguage": "uk",
+    "isShortRegistration": true
+  },
+  "sourceBrand": null,
+  "authorizationHeader": null,
+  "eventUser": "user",
+  "eventDate": "date",
+  "id": "id",
+  "brand": "COM",
+  "actorIp": "id"
+}

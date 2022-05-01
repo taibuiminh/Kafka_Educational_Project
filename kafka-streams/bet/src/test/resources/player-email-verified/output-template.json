@@ -1,0 +1,9 @@
+{
+  "playerId": "playerId",
+  "firstName": "firstName",
+  "lastName": "lastName",
+  "email": "email@pm.bet",
+  "isEmailVerified": true,
+  "defaultCurrency": "UAH",
+  "brand": "COM"
+}

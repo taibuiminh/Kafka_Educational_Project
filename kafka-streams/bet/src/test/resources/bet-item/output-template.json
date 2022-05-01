@@ -1,0 +1,32 @@
+{
+  "betItemId": "metal",
+  "items": [
+    {
+      "itemIndex": 0,
+      "betId": "god",
+      "itemAcceptedAmount": 1000.0,
+      "itemAcceptedOdd": 2.8,
+      "eventId": "E-ID-22",
+      "eventName": "Test1 - Test2",
+      "startTime": "2021-11-27T00:00:00Z"
+    },
+    {
+      "itemIndex": 1,
+      "betId": "god",
+      "itemAcceptedAmount": 1000.0,
+      "itemAcceptedOdd": 2.8,
+      "eventId": "E-ID-22",
+      "eventName": "Test1 - Test2",
+      "startTime": "2021-11-27T00:00:00Z"
+    },
+    {
+      "itemIndex": 2,
+      "betId": "god",
+      "itemAcceptedAmount": 1000.0,
+      "itemAcceptedOdd": 2.8,
+      "eventId": "E-ID-22",
+      "eventName": "Test1 - Test2",
+      "startTime": "2021-11-27T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "betAcceptPlayerId": "Toy machine",
+  "betTimestamp": "2021-12-01T17:26:24.4276395Z",
+  "currency": "USD",
+  "amount": 1000.0,
+  "acceptedBetOdd": 2.8,
+  "possiblePayout": 2800.0,
+  "playerId": "playerId",
+  "firstName": "firstName",
+  "lastName": "lastName",
+  "email": "email@pm.bet",
+  "isEmailVerified": true,
+  "defaultCurrency": "UAH",
+  "brand": "COM"
+}

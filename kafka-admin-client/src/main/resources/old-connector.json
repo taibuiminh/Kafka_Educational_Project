@@ -1,0 +1,11 @@
+{
+  "name": "old-connector",
+  "config": {
+    "connector.class": "org.apache.kafka.connect.tools.MockSinkConnector",
+    "tasks.max": "1",
+    "topics": "old1, old2, old3, old4",
+    "file": "src/main/resources/old.txt",
+    "key.converter": "org.apache.kafka.connect.storage.StringConverter",
+    "value.converter": "org.apache.kafka.connect.storage.StringConverter"
+  }
+}

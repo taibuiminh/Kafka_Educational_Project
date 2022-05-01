@@ -1,0 +1,59 @@
+{
+  "profile": {
+    "email": "email@pm.bet",
+    "phone": "phone",
+    "isTrue": true,
+    "nnBonus": null,
+    "regions": {
+      "region": "UKR",
+      "timestamp": 1636128333813,
+      "overrideBy": null,
+      "macroRegion": "CIS"
+    },
+    "lastName": "lastName",
+    "firstName": "firstName",
+    "middleName": "middleName",
+    "dateOfBirth": "date",
+    "livingAddress": {
+      "city": "Kyiv",
+      "country": "UKR"
+    },
+    "defaultCurrency": "UAH",
+    "registrationDate": "date",
+    "selectedLanguage": "uk",
+    "isShortRegistration": true
+  },
+  "sourceValues": {},
+  "regData": {
+    "Btag": null,
+    "Qtag": null,
+    "NnBonus": null,
+    "Currency": "UAH",
+    "click_id": null,
+    "IpAddress": "ip",
+    "CurrencyId": 1,
+    "RefererUrl": "url",
+    "FeedbackUrl": null,
+    "marketingMeta": {},
+    "CurrentChannel": "MOBILE_WEB",
+    "registrationId": "id",
+    "RegistrationDate": "date",
+    "RegistrationType": "type",
+    "referrerAuthority": "api",
+    "RegistrationCountryIso2": "UA"
+  },
+  "regDataSourceValues": {},
+  "metadata": {
+    "region": "UKR",
+    "macroRegion": "CIS",
+    "overrideBy": null,
+    "timestamp": 1636129097495
+  },
+  "sourceBrand": null,
+  "authorizationHeader": null,
+  "eventUser": "user",
+  "eventDate": "date",
+  "id": "id",
+  "brand": "COM",
+  "actorIp": "id"
+}

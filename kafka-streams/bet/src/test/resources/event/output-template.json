@@ -1,0 +1,9 @@
+{
+  "Id": "b4e325e15b8c425d9962234ba5dd1e89",
+  "Name": {
+    "en": "Test1 - Test2"
+  },
+  "Sport": "Football",
+  "Status": "Active",
+  "StartTime": "2021-11-27T00:00:00Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "new-connector",
+  "config": {
+    "connector.class": "org.apache.kafka.connect.tools.MockSinkConnector",
+    "tasks.max": "1",
+    "topics": "new1, new2",
+    "file": "src/main/resources/new.txt",
+    "key.converter": "org.apache.kafka.connect.storage.StringConverter",
+    "value.converter": "org.apache.kafka.connect.storage.StringConverter"
+  }
+}

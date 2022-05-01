@@ -1,0 +1,18 @@
+{
+  "TournamentId": "Performance_Tournament",
+  "Name": {
+    "ru": "Тест1-Тест2"
+  },
+  "TaggedNames": {},
+  "Sport": "Football",
+  "Type": "Match",
+  "CompetitorType": "Team",
+  "StartTime": "2021-11-27T00:00:00Z",
+  "CompetitorsIds": [
+    "3e7313af2b914373b1c08b056b6193e4",
+    "12301d3b82844f9ea477ad00b88faae6"
+  ],
+  "Timestamp": "2021-11-17T18:44:39.5541139Z",
+  "DataVersion": 1,
+  "Note": {}
+}

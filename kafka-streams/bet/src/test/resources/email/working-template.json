@@ -1,0 +1,11 @@
+{
+  "authorizationHeader": null,
+  "user": "user",
+  "date": "date",
+  "playerId": "id",
+  "channel": "email@pm.bet",
+  "channelType": "email",
+  "verified": true,
+  "isVerifiedInCupis": false,
+  "isMigrated": false
+}
